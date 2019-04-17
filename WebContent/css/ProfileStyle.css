@@ -35,6 +35,11 @@
 	color: #09B1FC;
 }
 
+.form .doc iframe{
+	width: 660px;
+	height: 640px;
+}
+
 
 body{
 	padding: 0;
