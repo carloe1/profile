@@ -1,0 +1,91 @@
+@CHARSET "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.form{
+	max-width: 960px;
+	margin:auto;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-size: 30px;
+	
+}
+
+.form .header img{
+	width: 500px;
+	height: 350px;
+}
+
+.form .tabs a{
+	font-size: 40px;
+	text-decoration: none;
+	color: #09B1FC;
+}
+
+.form .tabs a:hover{
+	color: "red";
+}
+
+.form .linkbuttons img {
+	width: 70xp;
+	height: 70px;
+}
+
+.form .text a{
+	text-decoration: none;
+	color: #09B1FC;
+}
+
+
+body{
+	padding: 0;
+	margin: 0;
+	font-family: "arial";
+}
+
+@media screen and (max-width:959px){
+	.form{
+		width: 100%;
+		margin:auto;
+		padding: 8% 0 0;
+		text-align: center;
+		font-family: "Roboto", sans-serif;
+	}
+	
+	.form .header img{
+		width: 80%;
+		height: 80%;
+	}
+	
+	.form .tabs a{
+		font-size: 75%;
+		text-decoration: none;
+		color: #09B1FC;
+	}
+	
+	.form .linkbuttons img {
+		width: 12%;
+		height: 12%;
+	}
+	
+	.form .text a{
+		text-decoration: none;
+		color: #09B1FC;
+	}
+	
+	.form .tabs a:hover{
+		color: "red";
+	}
+	
+	body{
+		padding: 0;
+		margin: 0;
+		font-family: "arial";
+	}
+
+}
+
+@media screen and (max-width:320px){
+	.form{
+		width: 320px;
+	}
+}
