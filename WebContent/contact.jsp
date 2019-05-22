@@ -12,7 +12,7 @@
 		<div class="form">
 			
 			<div class="header">
-				<h1><a href="http://www.carlos-estrada.com"><img src="images/signature.png"/></a></h1>
+				<h1><a href="http://www.cestrada.xyz"><img src="images/signature.png"/></a></h1>
 			</div><!-- header -->
 			
 			<div class="tabs">
@@ -22,18 +22,8 @@
 			</div><!-- tabs -->
 			
 			<div class="textbox">
-				<a>Reach me in the various medias below.</a><br>
-				<a>Or write me a message below and I'll get back to you.</a><br>
+				<a>All down below.</a><br><br>
 			</div><!-- textbox -->
-			
-			<div class="contact-box">
-				<FORM ACTION="sendEmail" METHOD="POST">
-					<INPUT type="text" name="name" placeholder="Name"> <br>
-					<INPUT type="text" name="email" placeholder="Email"><br>
-					<INPUT type="text" name="message" placeholder="Message"><br>
-					<INPUT type="submit" value="Send">
-				</FORM>
-			</div><!-- contact-box -->
 			
 			<div class="linkbuttons">
 				<a href="https:// discordapp.com/users/"><img src="images/if_discord.png" /></a>
